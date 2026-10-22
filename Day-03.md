@@ -237,7 +237,7 @@ cat dmesg_log.txt
 
 ---
 
-## 4. Practice Tasks (अभ्यास कार्य)
+## 4. Practice Tasks
 
 Ab aap in concepts ko khud try karke dekho. Yeh tasks aapki understanding ko strengthen karenge.
 
