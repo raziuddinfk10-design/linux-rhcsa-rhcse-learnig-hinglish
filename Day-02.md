@@ -102,7 +102,7 @@ Yahaan kuch important commands hain jo hum is lesson mein cover karenge:
 
 ---
 
-### 3. Step-by-Step Examples (कदम-दर-कदम उदाहरण)
+### 3. Step-by-Step Examples 
 
 Chalo, ek scenario imagine karte hain. Aapko ek naye server par kuch initial setup aur file management karna hai.
 
