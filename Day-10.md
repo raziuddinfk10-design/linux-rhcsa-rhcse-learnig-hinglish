@@ -1,6 +1,6 @@
 Day 10: Access Control Lists (ACLs)
 ---
-वाह! Access Control Lists (ACLs) Linux permissions ka ek bahut hi powerful feature hai, jo standard UGO (User, Group, Other) permissions ki limitations ko overcome karta hai. Chalo, ise Hinglish mein detail mein samajhte hain, RHCSA aur RHCE dono levels ko cover karte hue.
+Access Control Lists (ACLs) Linux permissions ka ek bahut hi powerful feature hai, jo standard UGO (User, Group, Other) permissions ki limitations ko overcome karta hai. Chalo, ise Hinglish mein detail mein samajhte hain, RHCSA aur RHCE dono levels ko cover karte hue.
 
 ---
 
