@@ -1,6 +1,6 @@
 Day 7: Revision & lab practice (Linux architecture, shell basics, navigation, help tools (man, info) File operations (ls, cp, mv, rm, cat, less, head, tail) I/O redirection (>, >>, 2>, tee), pipelines (|) Searching (grep, find, locate), regular expressions Scripting basics (bash, variables, if, for, while) System documentation & basic troubleshooting (whoami, id, uptime))
 ---
-नमस्ते RHCSA/RHCE aspirants!
+ RHCSA/RHCE aspirants!
 
 Aaj humara focus hai Linux ke basic magar **bahut zaroori** concepts ko revise karna aur unki **lab practice** karna. Ye woh building blocks hain jin par aapki poori Linux expertise banegi. Chahe aap RHCSA de rahe ho ya RHCE, in topics par pakad hona extremely important hai.
 
